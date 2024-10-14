@@ -1,0 +1,142 @@
+from flask import Flask, jsonify
+import sqlite3
+from pyngrok import ngrok
+
+app = Flask(__name__)
+
+# ایجاد پایگاه داده SQLite
+def init_db():
+    conn = sqlite3.connect('musical_instruments.db')
+    c = conn.cursor()
+    c.execute('''
+    CREATE TABLE IF NOT EXISTS instruments (
+        id INTEGER PRIMARY KEY,
+        name TEXT,
+        type TEXT,
+        history TEXT,
+        music_style TEXT,
+        num_notes INTEGER,
+        material TEXT,
+        price REAL,
+        num_octaves INTEGER,
+        weight REAL,
+        sound_quality TEXT,
+        guitar_type TEXT,
+        piano_type TEXT,
+        num_strings INTEGER,
+        string_material TEXT,
+        pickup_type TEXT,
+        fretboard TEXT,
+        learning_difficulty TEXT
+    )
+    ''')
+    conn.commit()
+    conn.close()
+
+# تابع برای اضافه‌کردن داده‌های سازها
+def scrape_instrument_data():
+    conn = sqlite3.connect('musical_instruments.db')
+    c = conn.cursor()
+
+    # اطلاعات پیانو
+    piano_data = {
+        'name': 'Piano',
+        'type': 'String',
+        'history': 'The piano was invented in the early 1700s...',
+        'music_style': 'Classical, Jazz, Pop',
+        'num_notes': 88,
+        'material': 'Wood, Metal',
+        'price': 3000.0,
+        'num_octaves': 7,
+        'weight': 300.0,
+        'sound_quality': 'Rich, Warm',
+        'guitar_type': None,
+        'piano_type': 'Acoustic',
+        'num_strings': None,
+        'string_material': None,
+        'pickup_type': None,
+        'fretboard': None,
+        'learning_difficulty': 'Medium'
+    }
+
+    c.execute('''
+    INSERT INTO instruments (name, type, history, music_style, num_notes, material, price, num_octaves, weight, sound_quality, guitar_type, piano_type, num_strings, string_material, pickup_type, fretboard, learning_difficulty)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', tuple(piano_data.values()))
+
+    # اطلاعات گیتار
+    guitar_data = {
+        'name': 'Guitar',
+        'type': 'String',
+        'history': 'The guitar has a history dating back to ancient times...',
+        'music_style': 'Rock, Blues, Folk',
+        'num_notes': None,
+        'material': 'Wood, Nylon, Steel',
+        'price': 500.0,
+        'num_octaves': None,
+        'weight': 2.0,
+        'sound_quality': 'Bright, Clear',
+        'guitar_type': 'Acoustic',
+        'piano_type': None,
+        'num_strings': 6,
+        'string_material': 'Nylon/Steel',
+        'pickup_type': 'None',
+        'fretboard': 'Rosewood',
+        'learning_difficulty': 'Easy'
+    }
+
+    c.execute('''
+    INSERT INTO instruments (name, type, history, music_style, num_notes, material, price, num_octaves, weight, sound_quality, guitar_type, piano_type, num_strings, string_material, pickup_type, fretboard, learning_difficulty)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', tuple(guitar_data.values()))
+
+    conn.commit()
+    conn.close()
+
+# API endpoint برای دریافت اطلاعات سازها
+@app.route('/api/instruments', methods=['GET'])
+def get_instruments():
+    conn = sqlite3.connect('musical_instruments.db')
+    c = conn.cursor()
+    c.execute('SELECT * FROM instruments')
+    instruments = c.fetchall()
+    conn.close()
+
+    # ساختاردهی داده‌ها به صورت JSON
+    result = []
+    for instrument in instruments:
+        result.append({
+            'id': instrument[0],
+            'name': instrument[1],
+            'type': instrument[2],
+            'history': instrument[3],
+            'music_style': instrument[4],
+            'num_notes': instrument[5],
+            'material': instrument[6],
+            'price': instrument[7],
+            'num_octaves': instrument[8],
+            'weight': instrument[9],
+            'sound_quality': instrument[10],
+            'guitar_type': instrument[11],
+            'piano_type': instrument[12],
+            'num_strings': instrument[13],
+            'string_material': instrument[14],
+            'pickup_type': instrument[15],
+            'fretboard': instrument[16],
+            'learning_difficulty': instrument[17],
+        })
+
+    return jsonify(result)
+
+# راه‌اندازی برنامه
+if __name__ == '__main__':
+    # ایجاد پایگاه داده و اضافه کردن داده‌ها
+    init_db()
+    scrape_instrument_data()
+
+    # اجرای ngrok برای دسترسی به سرور Flask
+    public_url = ngrok.connect(5000)
+    print(f" * ngrok URL: {public_url}")
+
+    # اجرای سرور Flask
+    app.run(port=5000)
