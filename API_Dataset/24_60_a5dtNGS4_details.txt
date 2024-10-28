@@ -1,0 +1,22 @@
+{
+    "ID": 24,
+    "Title": "IMPRESS EVERYBODY WITH THIS STUNNING RHYTHM AND 2 CHORDS",
+    "Link": "https://www.youtube.com/watch?v=60_a5dtNGS4",
+    "Instrument": "Guitar",
+    "Channel": "G & Guitar",
+    "Views": 11372548,
+    "Duration": "PT20S",
+    "Published Date": "2023-01-06T12:47:58Z",
+    "Likes": 624923,
+    "Comments": 1265,
+    "Description": "Rumba flamenco guitar rhythm technique - basic and easy tutorial. Tabs: https://www.patreon.com/gaelguitar Gear used: Capo ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/60_a5dtNGS4/default.jpg",
+    "Days Since Published": 661,
+    "Transcript Length": 0,
+    "Description Word Count": 16,
+    "Like to View Ratio": 0.054950130788632416,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: no element found: line 1, column 0"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 18,
+    "Title": "Play THIS Song at the Party Tonight! 🎸🎉",
+    "Link": "https://www.youtube.com/watch?v=azsyCwMMspY",
+    "Instrument": "Guitar",
+    "Channel": "Guitar Mastery Method",
+    "Views": 956991,
+    "Duration": "PT21S",
+    "Published Date": "2023-03-21T07:30:38Z",
+    "Likes": 30434,
+    "Comments": 245,
+    "Description": "Make everyone at the party sing and dance along with this tutorial on how to play Wonderwall on guitar! Learn all the chords, ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/azsyCwMMspY/default.jpg",
+    "Days Since Published": 587,
+    "Transcript Length": 58,
+    "Description Word Count": 24,
+    "Like to View Ratio": 0.03180176198104266,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "if you're going to a party tonight be sure to bring your guitar and play them this song chords are E minor seven [Music] G d sus4 [Music] E7 sus4 [Music] if anyone asks you to play a different song just say I don't know that one but uh let me play this first one for you again"
+}

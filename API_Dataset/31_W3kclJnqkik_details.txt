@@ -1,0 +1,22 @@
+{
+    "ID": 31,
+    "Title": "TOP 23 iconic Guitar Riffs on One String | Easy Guitar Lessons for Beginners | Chords, Backing Track",
+    "Link": "https://www.youtube.com/watch?v=W3kclJnqkik",
+    "Instrument": "Guitar",
+    "Channel": "Coach Guitar",
+    "Views": 830263,
+    "Duration": "PT9M44S",
+    "Published Date": "2022-11-04T21:54:42Z",
+    "Likes": 17967,
+    "Comments": 169,
+    "Description": "GET 20% OFF CoachGuitar Premium Lessons full access with the code: YOUTUBE20 – Visit https://coachguitar.com/youtube ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/W3kclJnqkik/default.jpg",
+    "Days Since Published": 723,
+    "Transcript Length": 0,
+    "Description Word Count": 16,
+    "Like to View Ratio": 0.02164013089828163,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=W3kclJnqkik! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

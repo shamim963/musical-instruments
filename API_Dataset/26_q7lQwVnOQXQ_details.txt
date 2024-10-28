@@ -1,0 +1,22 @@
+{
+    "ID": 26,
+    "Title": "POV: You Buy Your First 7-String Guitar 🎸",
+    "Link": "https://www.youtube.com/watch?v=q7lQwVnOQXQ",
+    "Instrument": "Guitar",
+    "Channel": "David Pazmino",
+    "Views": 382758,
+    "Duration": "PT1M1S",
+    "Published Date": "2024-08-19T13:45:15Z",
+    "Likes": 28938,
+    "Comments": 292,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/q7lQwVnOQXQ/default.jpg",
+    "Days Since Published": 70,
+    "Transcript Length": 131,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.07560390638471305,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "so this literally has seven strings why is it so quiet oh you got to plug it in all right let's try it out today I want to give you some of my favorite tips and tricks for seven string guitar so the seven string is the low B string heavy [Music] metal Smoke on the seven string uh this neck is pretty wide so if it's still Eddie 8 Dynamite goodbye Eddie what does the low b stand for and there's also seven tuning pegs well I guess that makes sense [Music] right Seven Nation Army so now there's a low E and a high E string and a low b and a high B string wait will a cable still work well there's only one way to find out"
+}

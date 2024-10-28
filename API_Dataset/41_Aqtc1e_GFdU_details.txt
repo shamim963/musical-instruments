@@ -1,0 +1,22 @@
+{
+    "ID": 41,
+    "Title": "How guitar players treat their instrument",
+    "Link": "https://www.youtube.com/watch?v=Aqtc1e_GFdU",
+    "Instrument": "Guitar",
+    "Channel": "Robert Jakob",
+    "Views": 3344855,
+    "Duration": "PT18S",
+    "Published Date": "2023-06-04T14:27:16Z",
+    "Likes": 178041,
+    "Comments": 2050,
+    "Description": "How guitar players treat their instrument after some time. If you enjoyed or have any suggestions, please leave a comment!",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/Aqtc1e_GFdU/default.jpg",
+    "Days Since Published": 512,
+    "Transcript Length": 2,
+    "Description Word Count": 20,
+    "Like to View Ratio": 0.05322831632462394,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music]"
+}

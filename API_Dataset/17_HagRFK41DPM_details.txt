@@ -1,0 +1,22 @@
+{
+    "ID": 17,
+    "Title": "Easy Guitar Riffs - Eye of the Tiger (TAB) - Survivor - The Easy Way!",
+    "Link": "https://www.youtube.com/watch?v=HagRFK41DPM",
+    "Instrument": "Guitar",
+    "Channel": "Online Guitar Lessons UK",
+    "Views": 570608,
+    "Duration": "PT24S",
+    "Published Date": "2023-02-18T17:50:44Z",
+    "Likes": 19819,
+    "Comments": 92,
+    "Description": "Easy Guitar Riffs playlist: https://www.youtube.com/playlist?list=PLTSxypZV3Hri5RjT7QHMTm7oEhaByOnQN Website: ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/HagRFK41DPM/default.jpg",
+    "Days Since Published": 617,
+    "Transcript Length": 0,
+    "Description Word Count": 7,
+    "Like to View Ratio": 0.03473312677004178,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=HagRFK41DPM! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

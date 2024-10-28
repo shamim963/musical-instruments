@@ -1,0 +1,22 @@
+{
+    "ID": 46,
+    "Title": "How to play the A Chord on Guitar (it&#39;s so easy!) #Shorts",
+    "Link": "https://www.youtube.com/watch?v=SIxHT-dNRvI",
+    "Instrument": "Guitar",
+    "Channel": "JustinGuitar",
+    "Views": 1835239,
+    "Duration": "PT50S",
+    "Published Date": "2022-03-24T18:04:41Z",
+    "Likes": 50481,
+    "Comments": 191,
+    "Description": "Learn how to play the A chord on the guitar. A must for any beginner! Learn More! My Courses help millions of people learn ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/SIxHT-dNRvI/default.jpg",
+    "Days Since Published": 948,
+    "Transcript Length": 161,
+    "Description Word Count": 25,
+    "Like to View Ratio": 0.027506499153516245,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "so this is how we play an a chord on the guitar we start with our first finger in the second fret of the third string but in the middle of the fret usually we try and get the fingers right up next to the fret but in this case we start with the first finger about in the middle second fret third string second finger goes down right near the fret now on the second fret of the fourth string and then third finger goes down also in the second fret but this time on the second string okay once the second and third fingers are in you want to try and wedge that first finger up so it's as close to the fret as possible and then strum the chord pick the notes out one at a time remember we don't play the thickest string here so open fifth string second fret second fret second fret and open [Music]"
+}

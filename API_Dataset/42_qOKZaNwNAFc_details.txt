@@ -1,0 +1,22 @@
+{
+    "ID": 42,
+    "Title": "easy rumba flamenco lesson",
+    "Link": "https://www.youtube.com/watch?v=qOKZaNwNAFc",
+    "Instrument": "Guitar",
+    "Channel": "Sam Bouhank",
+    "Views": 7559741,
+    "Duration": "PT30S",
+    "Published Date": "2022-11-01T18:46:42Z",
+    "Likes": 394151,
+    "Comments": 638,
+    "Description": "Follow me on Instagram for more : sam_bouhank.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/qOKZaNwNAFc/default.jpg",
+    "Days Since Published": 726,
+    "Transcript Length": 4,
+    "Description Word Count": 8,
+    "Like to View Ratio": 0.05213816187618068,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music] [Music] [Music]"
+}

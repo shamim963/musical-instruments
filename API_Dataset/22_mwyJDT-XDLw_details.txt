@@ -1,0 +1,22 @@
+{
+    "ID": 22,
+    "Title": "Easy ONE STRING RIFFS on guitar #shorts",
+    "Link": "https://www.youtube.com/watch?v=mwyJDT-XDLw",
+    "Instrument": "Guitar",
+    "Channel": "Marty Music",
+    "Views": 1554637,
+    "Duration": "PT59S",
+    "Published Date": "2021-07-12T21:00:30Z",
+    "Likes": 96747,
+    "Comments": 786,
+    "Description": "Latest Content - https://linktr.ee/martyschwartz Patreon - https://www.patreon.com/MartyMusic Website - http://www.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/mwyJDT-XDLw/default.jpg",
+    "Days Since Published": 1203,
+    "Transcript Length": 90,
+    "Description Word Count": 10,
+    "Like to View Ratio": 0.06223124755167927,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "you trying to learn guitar i think the first thing you should do is learn some riffs on the first string this string is called the e string these are called frets we can number the fret so if i say o you play it with no fingers on [Music] if i say three you count up to the third fret one two three if i say five you move it to the fifth so if i were to say o three five [Music] but there's more oh rocky lord"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 36,
+    "Title": "Feel Good Inc Guitar Lessons for Beginners Gorillaz Tutorial, Electric Chords, Lyrics, Backing Track",
+    "Link": "https://www.youtube.com/watch?v=yr1t0pRwHUY",
+    "Instrument": "Guitar",
+    "Channel": "Coach Guitar",
+    "Views": 657765,
+    "Duration": "PT13M22S",
+    "Published Date": "2022-12-23T17:00:48Z",
+    "Likes": 15328,
+    "Comments": 130,
+    "Description": "Download Guitar Backing Tracks & Tab : https://rb.gy/e9wca2 GET 20% OFF CoachGuitar Premium Lessons full access with the ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/yr1t0pRwHUY/default.jpg",
+    "Days Since Published": 675,
+    "Transcript Length": 0,
+    "Description Word Count": 19,
+    "Like to View Ratio": 0.023303155382241376,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: no element found: line 1, column 0"
+}

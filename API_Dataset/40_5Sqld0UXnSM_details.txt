@@ -1,0 +1,22 @@
+{
+    "ID": 40,
+    "Title": "Perfect by Ed Sheeran EASY Guitar Tutorial",
+    "Link": "https://www.youtube.com/watch?v=5Sqld0UXnSM",
+    "Instrument": "Guitar",
+    "Channel": "Bernadette Teaches Music",
+    "Views": 2482056,
+    "Duration": "PT1M1S",
+    "Published Date": "2023-05-11T22:05:55Z",
+    "Likes": 113932,
+    "Comments": 403,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/5Sqld0UXnSM/default.jpg",
+    "Days Since Published": 535,
+    "Transcript Length": 100,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.04590226811965564,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "hi let's learn how to play Perfect by Ed Sheeran on our guitars we only need four really easy chords for this and that's G E minor C and D this German pattern that I'm doing is just really simple down strums and I'm counting to six one two three four five six one keep it really gentle the singing notes are right here [Music] we were just kids and you start strumming on the word it fell we are just kids when we fell in love [Music] this is done darling just kiss me so your horn is [Music]"
+}

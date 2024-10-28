@@ -1,0 +1,22 @@
+{
+    "ID": 47,
+    "Title": "GUITAR LESSONS 101 FOR BEGINNERS - D6 CHORD",
+    "Link": "https://www.youtube.com/watch?v=eQ8EJoO1bS4",
+    "Instrument": "Guitar",
+    "Channel": "Buhay America Chronicles",
+    "Views": 1715356,
+    "Duration": "PT29S",
+    "Published Date": "2021-03-15T03:46:41Z",
+    "Likes": 46530,
+    "Comments": 103,
+    "Description": "BuhayAmericaChronicles #Shorts #D6Chord Please Connect With Our Members: @Suroy HK ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/eQ8EJoO1bS4/default.jpg",
+    "Days Since Published": 1323,
+    "Transcript Length": 42,
+    "Description Word Count": 11,
+    "Like to View Ratio": 0.02712556460583109,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "d6 place your index finger on the fifth string second fret middle finger on the third string second fret ring finger on the first string second fret and pinky on the second string third fret do not play the sixth string d6"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 10,
+    "Title": "Chop suey strumming guitar tutorial",
+    "Link": "https://www.youtube.com/watch?v=BoKbqGygGJU",
+    "Instrument": "Guitar",
+    "Channel": "G & Guitar",
+    "Views": 6605293,
+    "Duration": "PT22S",
+    "Published Date": "2023-07-08T07:05:00Z",
+    "Likes": 282099,
+    "Comments": 703,
+    "Description": "Chop suey - System of a down (please no Lil uzi vert cover!!!) I play a Donner HUSH-I Travel Guitar: https://amzn.to/3OkLH7x Tabs ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/BoKbqGygGJU/default.jpg",
+    "Days Since Published": 478,
+    "Transcript Length": 2,
+    "Description Word Count": 23,
+    "Like to View Ratio": 0.04270802218766071,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music]"
+}

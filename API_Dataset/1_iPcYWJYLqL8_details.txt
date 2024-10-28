@@ -1,0 +1,22 @@
+{
+    "ID": 1,
+    "Title": "YouTube Shorts Guitar Tutorials be like:",
+    "Link": "https://www.youtube.com/watch?v=iPcYWJYLqL8",
+    "Instrument": "Guitar",
+    "Channel": "Aaron Paulsen",
+    "Views": 16050922,
+    "Duration": "PT15S",
+    "Published Date": "2023-06-05T18:51:20Z",
+    "Likes": 1009801,
+    "Comments": 12011,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/iPcYWJYLqL8/default.jpg",
+    "Days Since Published": 510,
+    "Transcript Length": 0,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.06291233612623624,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: no element found: line 1, column 0"
+}

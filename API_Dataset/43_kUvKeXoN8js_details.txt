@@ -1,0 +1,22 @@
+{
+    "ID": 43,
+    "Title": "How to make your crush fall in love with you",
+    "Link": "https://www.youtube.com/watch?v=kUvKeXoN8js",
+    "Instrument": "Guitar",
+    "Channel": "Elise Ecklund",
+    "Views": 13981271,
+    "Duration": "PT31S",
+    "Published Date": "2022-06-20T17:11:35Z",
+    "Likes": 687022,
+    "Comments": 6281,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/kUvKeXoN8js/default.jpg",
+    "Days Since Published": 861,
+    "Transcript Length": 68,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.04913873710051111,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "this is how you make your crush fall in love with you you only have to learn three easy chords on guitar so we are going to start right here and play that then we are going to move it one over and then play this however for this to work and to be successful you have to play it a little bit faster [Music] guess who's back"
+}

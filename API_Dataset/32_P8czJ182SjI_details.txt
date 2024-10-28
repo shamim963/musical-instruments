@@ -1,0 +1,22 @@
+{
+    "ID": 32,
+    "Title": "The FIRST CHORD You Should Learn #shorts",
+    "Link": "https://www.youtube.com/watch?v=P8czJ182SjI",
+    "Instrument": "Guitar",
+    "Channel": "Marty Music",
+    "Views": 1189393,
+    "Duration": "PT56S",
+    "Published Date": "2022-07-28T18:00:17Z",
+    "Likes": 67417,
+    "Comments": 412,
+    "Description": "Latest Content - https://linktr.ee/martyschwartz Patreon - https://www.patreon.com/MartyMusic Website - http://www.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/P8czJ182SjI/default.jpg",
+    "Days Since Published": 822,
+    "Transcript Length": 146,
+    "Description Word Count": 10,
+    "Like to View Ratio": 0.05668185368503094,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "if you're trying to learn guitar here's a great way to start and you could also share this with your friends the first two chords i think you should learn are e minor and a sus2 but what's cool is all you do is form this one shape [Music] and you can just scoot it over and you have a second chord to play music with so these are the frets so second fret on this a string here and then second fret on that d string don't touch the other strings so you kind of want to arch your fingers so you can let all the strings ring out and then these are on the second fret first chord of wonder wall by the way and wish you were here many many others and then just scoot it over and now you're playing music [Music]"
+}

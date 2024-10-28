@@ -1,0 +1,22 @@
+{
+    "ID": 44,
+    "Title": "LEARN GUITAR IN 7 DAYS (or less)",
+    "Link": "https://www.youtube.com/watch?v=jq0ZAc97cAY",
+    "Instrument": "Guitar",
+    "Channel": "Redlight Blue",
+    "Views": 357931,
+    "Duration": "PT3M16S",
+    "Published Date": "2024-02-29T16:41:57Z",
+    "Likes": 15165,
+    "Comments": 168,
+    "Description": "This is by far the fastest way to learn to play guitar. It doesn't use any hacks, you're not only learning one song, you're actually ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/jq0ZAc97cAY/default.jpg",
+    "Days Since Published": 242,
+    "Transcript Length": 729,
+    "Description Word Count": 26,
+    "Like to View Ratio": 0.04236850119157044,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "anyone can learn how to play the guitar in 7 days or less so the way guitar is usually taught is they give you a really solid foundation that you can build off of to become a great guitar player but not everyone who wants to play guitar wants to be a great guitarist not everyone who learns to bike wants to go to the X Games some people just want to bike so if your goal is just to play guitar for friends or to go with your singing you don't necessarily need that same really good foundation your foundation can be okay now to learn guitar there are two main things that you need knowledge but you also need the muscle memory the way that muscle memory works is that you develop it in the time that you're not practicing so you practice and then during the time after you internalize it and then when you come back you'll be better at it so with that in mind you're going to want to practice for 15 minutes two to four times a day but not more because your fingers will hurt guitar strings are these thin metal wires that dig into your soft delicate fingers and it hurts so you don't want to overdo it now in terms of the knowledge if you've ever watched any other begin inner guitar course they always say you start with open chords and that's great cuz it gives you a solid foundation that you can build off of but we're not doing that we're doing a shaky Foundation that's fast and effective so we're going to simplify four basic chords cuz the thing with guitar youve recycle a lot of chords so if you learn these four main chords you're going to be able to play thousands of songs you just got to shift around the order strum a little differently but it's really just these four chords so these chords are g d e minor and C to read the chord diagrams picture a guitar that's on a guitar stand so what all these chords have in common is that on the third fret of the highest two strings they're always pushed down that's with your pinky and your ring finger every time you play your fingers are going to stay right there now to practice these chords what you're going to do is just pick two randomly at a time set a timer for a minute and switch between them as fast as you possibly can GC GC you w't be as fast as me but one day maybe but once you get comfortable enough with it you can try practicing to metronome also you're not going to want to strum with a pick pics are really good for making a bright clear loud sound which is great um but it also makes your mistakes really loud and clear which is not great so what you're going to do is you're either going to strum with the soft part of your thumb or you can use the nails on your other four fingers and just kind of or you can do a combination of both anything's possible on guitar now here's the trickiest part when I said that the foundation's pretty shaky it is you're pretty much locked into these four cords but what you can do and it's going to seem way more impressive than looking up chords is just learn songs by ear pretty much any Four Chord song can be played with these four chords but it's not necessarily going to be the chords that come up in tutorials just figure out by ear does this sound right just a small town girl no just a small girl living in a lonely world that's it we figured out the song and you can pretty much do that with any song the only thing that matters is that you get the tempo right and the core changes are in the right place I'd recommend getting a capo cuz it can help you play Closer to the actual key for most songs otherwise you can just transpose it that means not playing the right key but I'd recommend getting a you're playing guitar it's guitar playing you're playing guitar in under a week I told you so"
+}

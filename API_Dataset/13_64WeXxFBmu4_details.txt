@@ -1,0 +1,22 @@
+{
+    "ID": 13,
+    "Title": "Come As You Are - Nirvana Guitar Lesson + Tutorial",
+    "Link": "https://www.youtube.com/watch?v=64WeXxFBmu4",
+    "Instrument": "Guitar",
+    "Channel": "IntermediateLevelGuitar",
+    "Views": 1701082,
+    "Duration": "PT5S",
+    "Published Date": "2023-04-26T14:00:04Z",
+    "Likes": 66999,
+    "Comments": 315,
+    "Description": "How To Play Come As You Are - Nirvana On Guitar. Intermediate Level Guitar Tutorial.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/64WeXxFBmu4/default.jpg",
+    "Days Since Published": 551,
+    "Transcript Length": 0,
+    "Description Word Count": 15,
+    "Like to View Ratio": 0.03938610837102503,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=64WeXxFBmu4! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

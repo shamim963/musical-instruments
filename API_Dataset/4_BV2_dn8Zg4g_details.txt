@@ -1,0 +1,22 @@
+{
+    "ID": 4,
+    "Title": "How electric guitar players play a chord",
+    "Link": "https://www.youtube.com/watch?v=BV2_dn8Zg4g",
+    "Instrument": "Guitar",
+    "Channel": "Robert Jakob",
+    "Views": 3788291,
+    "Duration": "PT1M",
+    "Published Date": "2024-04-27T15:00:07Z",
+    "Likes": 205516,
+    "Comments": 2123,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/BV2_dn8Zg4g/default.jpg",
+    "Days Since Published": 184,
+    "Transcript Length": 0,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.05425032026314768,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=BV2_dn8Zg4g! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 29,
+    "Title": "HOW TO play Happy Birthday on Guitar!",
+    "Link": "https://www.youtube.com/watch?v=mkYYOzNIrUY",
+    "Instrument": "Guitar",
+    "Channel": "Bernadette Teaches Music",
+    "Views": 1863755,
+    "Duration": "PT42S",
+    "Published Date": "2023-01-11T15:55:58Z",
+    "Likes": 71615,
+    "Comments": 266,
+    "Description": "\"Learn to play the Happy Birthday song on guitar with our easy to follow tutorial! Whether you're a beginner or an intermediate ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/mkYYOzNIrUY/default.jpg",
+    "Days Since Published": 656,
+    "Transcript Length": 64,
+    "Description Word Count": 23,
+    "Like to View Ratio": 0.0384251148890278,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "how to play Happy Birthday on your guitar you only need three chords D A and G the story pattern that I'm doing is down down up up down up and we start strumming on the word birthday our singing note is on a string happy let's try it one two one two happy [Music] birthday to you I'm birthdays happy birthday to you"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 8,
+    "Title": "Popular songs 1 | Evergreen By Richy Mitch &amp; The Coal Miners! #guitarlesson #evergreen #guitar",
+    "Link": "https://www.youtube.com/watch?v=by_1TbIYRA4",
+    "Instrument": "Guitar",
+    "Channel": "TheKeyOfG",
+    "Views": 615121,
+    "Duration": "PT28S",
+    "Published Date": "2023-09-14T16:02:53Z",
+    "Likes": 33537,
+    "Comments": 116,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/by_1TbIYRA4/default.jpg",
+    "Days Since Published": 410,
+    "Transcript Length": 0,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.054520980424989554,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=by_1TbIYRA4! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

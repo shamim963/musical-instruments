@@ -1,0 +1,22 @@
+{
+    "ID": 38,
+    "Title": "13 years of GUITAR PROGRESS in 60 seconds #shorts",
+    "Link": "https://www.youtube.com/watch?v=3DTa2RwYxfU",
+    "Instrument": "Guitar",
+    "Channel": "Verver 6",
+    "Views": 6823702,
+    "Duration": "PT59S",
+    "Published Date": "2023-02-26T18:22:37Z",
+    "Likes": 389820,
+    "Comments": 0,
+    "Description": "13 years of playing the guitar progress in 60 seconds! Full video here: https://youtu.be/mtubqJrGw70 #guitar #guitarprogress ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/3DTa2RwYxfU/default.jpg",
+    "Days Since Published": 609,
+    "Transcript Length": 7,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.05712734817552115,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] thank you [Music] laughs [Music] [Music]"
+}

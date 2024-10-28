@@ -1,0 +1,22 @@
+{
+    "ID": 50,
+    "Title": "TikTok Guitar Riffs That Will Leave Your Fingers Sore #shorts",
+    "Link": "https://www.youtube.com/watch?v=LoK29e7pz5U",
+    "Instrument": "Guitar",
+    "Channel": "Mikey Piscopo",
+    "Views": 3354649,
+    "Duration": "PT58S",
+    "Published Date": "2023-05-13T18:11:18Z",
+    "Likes": 224523,
+    "Comments": 1044,
+    "Description": "guitar #music #guitarist #shorts.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/LoK29e7pz5U/default.jpg",
+    "Days Since Published": 533,
+    "Transcript Length": 170,
+    "Description Word Count": 4,
+    "Like to View Ratio": 0.06692890970113416,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "the most challenging Tick Tock guitar riffs in existence now I try my best to avoid trending Tick-Tock sounds but sometimes I'll come across an audio with a sugar sweet guitar riff that's more complex than you would think the Better Call Saul theme comes to mind first composed by a group called Little Berry this theme song has since gained worldwide recognition not only does the soul theme contain unique fingering patterns it's also based around a laid-back Rhythm that makes the tune pretty hard to replicate check it out [Music] foreign [Music] next we have the soundtrack to the spinning rap meme which is lesser known as Freebird by Lynyrd Skynyrd Skynyrd fans please don't freak out over that one but in all seriousness this riff has been around for decades before exploding on Tick Tock through obscure me Freebird stands out as one of tick tock's more intricate guitar riffs as it contains all the Mojo you'd find in a 1970s rock guitar track [Music] all right"
+}

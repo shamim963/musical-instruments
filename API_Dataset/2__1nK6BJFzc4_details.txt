@@ -1,0 +1,22 @@
+{
+    "ID": 2,
+    "Title": "ESSENTIAL STRUMMING PATTERN YOU MUST KNOW.",
+    "Link": "https://www.youtube.com/watch?v=_1nK6BJFzc4",
+    "Instrument": "Guitar",
+    "Channel": "G & Guitar",
+    "Views": 11906179,
+    "Duration": "PT28S",
+    "Published Date": "2023-04-30T08:00:15Z",
+    "Likes": 594956,
+    "Comments": 1244,
+    "Description": "Riptide - guitar strumming tutorial with tabs - Vance Joy. TABS: https://www.patreon.com/gaelguitar Gear used: Enya X4 pro guitar: ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/_1nK6BJFzc4/default.jpg",
+    "Days Since Published": 547,
+    "Transcript Length": 2,
+    "Description Word Count": 19,
+    "Like to View Ratio": 0.049970355728735476,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music]"
+}

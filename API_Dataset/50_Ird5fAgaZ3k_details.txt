@@ -1,0 +1,22 @@
+{
+    "ID": 50,
+    "Title": "Yellow - Coldplay | Easy Guitar Chords Tutorial For Beginners (CHORDS &amp; LYRICS) #guitarlessons",
+    "Link": "https://www.youtube.com/watch?v=Ird5fAgaZ3k",
+    "Instrument": "Guitar",
+    "Channel": "dernalvamusic",
+    "Views": 223115,
+    "Duration": "PT4M19S",
+    "Published Date": "2024-01-22T16:03:00Z",
+    "Likes": 2819,
+    "Comments": 26,
+    "Description": "Yellow - Coldplay | Easy Guitar Chords Tutorial For Beginners (CHORDS & LYRICS) #guitarlessons #guitartutorial #chords ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/Ird5fAgaZ3k/default.jpg",
+    "Days Since Published": 280,
+    "Transcript Length": 90,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.012634739932321898,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] look at the star [Music] shine everything they were allow came I all was called y [Music] what a things done it [Music] was oh yeah [Music] love you you know I love [Music] you I [Music] swear you are all Yow a true alive a true alive you what it was all [Music] yellow yeah [Music] SC for you I pleed [Music] myself for you I pleed [Music] myself [Music] sh sh for you [Music] sh look how they shine look at the stars look how they shine"
+}

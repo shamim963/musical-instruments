@@ -1,0 +1,22 @@
+{
+    "ID": 47,
+    "Title": "4 Hard Truths About Guitar",
+    "Link": "https://www.youtube.com/watch?v=7dXKC-oFD84",
+    "Instrument": "Guitar",
+    "Channel": "Brandon D'Eon Music",
+    "Views": 1136364,
+    "Duration": "PT1M",
+    "Published Date": "2023-05-03T17:37:28Z",
+    "Likes": 95141,
+    "Comments": 1191,
+    "Description": "52 Week Guitar Player is CLOSED for enrollment until mid-June. Join the waiting list: https://brandondeon.com/survey-page2 My ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/7dXKC-oFD84/default.jpg",
+    "Days Since Published": 543,
+    "Transcript Length": 239,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.08372405320830298,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "four hard truths about guitar truth one if you don't practice you will lose skill when you picked up your guitar you probably noticed it was a slow start but eventually you started improving and making a lot of progress but as more time passed your progress stopped and you got stuck super Advanced guitar players have to designate time to practice simply to maintain their current skill level let alone improve truth two you will forget some songs you learn this has probably already happened to you it's happened to me on a more positive note maybe knowing that you're not alone will actually make you feel better about the songs that you have forgotten true three it's actually one of the hardest instruments to get good at I went to school for music and I've talked to a lot of people that played guitar plus another instrument and it's pretty universally agreed that the only instruments harder than guitar are stringed instruments like violence cellos Etc and the trombone truth four it gets harder as you age if you have the advantage of starting at a young age gold star for you but if you're 50 and you're starting guitar for the first time it's gonna be harder for you than it would be for someone who's 20. enrollment in 52-week guitar player is closed until mid-june sign up to the waiting list now now just leave"
+}

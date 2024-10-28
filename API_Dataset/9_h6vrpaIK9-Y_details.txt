@@ -1,0 +1,22 @@
+{
+    "ID": 9,
+    "Title": "&quot;Learn Basic Guitar Chords: A Beginner’s Guide&quot;",
+    "Link": "https://www.youtube.com/watch?v=h6vrpaIK9-Y",
+    "Instrument": "Guitar",
+    "Channel": "Discovery Hub",
+    "Views": 662,
+    "Duration": "PT57S",
+    "Published Date": "2024-10-26T07:26:49Z",
+    "Likes": 11,
+    "Comments": 3,
+    "Description": "\"Welcome to my channel! In this video, I'll guide you through the basics of playing guitar, focusing on essential chords every ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/h6vrpaIK9-Y/default.jpg",
+    "Days Since Published": 2,
+    "Transcript Length": 167,
+    "Description Word Count": 22,
+    "Like to View Ratio": 0.01661631419939577,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "this is why you need to start playing guitar today it's easier than you think let's dive in first up get familiar with your guitar this is the body the neck and these are the strings make sure your guitar is in tune before we begin now let's learn our first chord the G chord place your fingers like this it should look like this strum the strings and you should hear a nice sound let's try another chord the C chord follow along with me great job practice switching between G and C all right let's put it all together I'll play a simple progression using G and C you can play along ready 1 2 3 4 play the progression now it's your turn try to practice these chords and come up with your own progression share your progress with me thanks for watching if you enjoyed this video don't forget to like And subscribe for more tutorials keep practicing and see you next time"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 36,
+    "Title": "My Daily Guitar Practice Routine (2022) #shorts",
+    "Link": "https://www.youtube.com/watch?v=bzbOWm0q79c",
+    "Instrument": "Guitar",
+    "Channel": "Mikey Piscopo",
+    "Views": 1363459,
+    "Duration": "PT50S",
+    "Published Date": "2022-11-07T20:01:33Z",
+    "Likes": 93996,
+    "Comments": 743,
+    "Description": "guitar #music #practice #shorts yessir. taking a deep dive into my daily practice routine. can you dig it.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/bzbOWm0q79c/default.jpg",
+    "Days Since Published": 720,
+    "Transcript Length": 176,
+    "Description Word Count": 18,
+    "Like to View Ratio": 0.06893936671363056,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "all right this video has been long overdue here is my updated daily guitar practice routine all in all I practice for about four to five hours a day so it's really important to stretch beforehand I stretch for about 20 minutes a day so the first hour of practice for me is usually just practicing scales I turn on a metronome and just get lost in arpeggios to warm up after I'm all warmed up I take to YouTube to try and learn as much as possible today it was a Marcus King [Music] and after that I start practicing bends this has been a recent habit of mine I just want to get my bends nice and clean for the gigs so this is like the fourth hour I just kind of go ham and do whatever I feel like playing it just helps me relax it's like therapy and one of the last things I do is fire up my doll to start recording online videos like the one you're seeing right now"
+}

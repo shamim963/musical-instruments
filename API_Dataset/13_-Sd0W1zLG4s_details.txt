@@ -1,0 +1,22 @@
+{
+    "ID": 13,
+    "Title": "STOP Sounding Like a Beginner! Do this.",
+    "Link": "https://www.youtube.com/watch?v=-Sd0W1zLG4s",
+    "Instrument": "Guitar",
+    "Channel": "Guitar Mastery Method",
+    "Views": 1117285,
+    "Duration": "PT42S",
+    "Published Date": "2023-03-29T07:30:42Z",
+    "Likes": 71008,
+    "Comments": 202,
+    "Description": "Are you tired of sounding like a beginner guitarist? It's time to level up your skills and leave that beginner sound behind! In this ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/-Sd0W1zLG4s/default.jpg",
+    "Days Since Published": 579,
+    "Transcript Length": 122,
+    "Description Word Count": 25,
+    "Like to View Ratio": 0.06355406185530102,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "if you're relatively new to guitar do what I'm about to show you because it's going to make you sound like your playing has just bumped up some levels here's what you're gonna do you're going to mute your strings then you're going to take your picking hand you're going to do what's called a shuffle beat You're Gonna Go down up down up down down so as opposed to a straight beat which would just be down up down up down up down up hear the difference so what you're going to do is you're going to keep that shuffle beat going with your picking hand do not stop and just play something simple like an A Minor Pentatonix like [Music]"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 12,
+    "Title": "Alan Walker - Faded (easy guitar tutorial)",
+    "Link": "https://www.youtube.com/watch?v=CJ9zvATX4VE",
+    "Instrument": "Guitar",
+    "Channel": "Guitar fingerstyle",
+    "Views": 9054650,
+    "Duration": "PT11S",
+    "Published Date": "2021-07-09T07:31:23Z",
+    "Likes": 229230,
+    "Comments": 7506,
+    "Description": "Faded by Alan Walker. Easy guitar tutorial video found in tiktok but don't take it serious just for fun.. #shorts #trending ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/CJ9zvATX4VE/default.jpg",
+    "Days Since Published": 1207,
+    "Transcript Length": 0,
+    "Description Word Count": 22,
+    "Like to View Ratio": 0.025316273958684212,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=CJ9zvATX4VE! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

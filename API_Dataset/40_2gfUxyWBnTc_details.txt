@@ -1,0 +1,22 @@
+{
+    "ID": 40,
+    "Title": "Tennessee Whiskey “Intro” guitar lessons👇",
+    "Link": "https://www.youtube.com/watch?v=2gfUxyWBnTc",
+    "Instrument": "Guitar",
+    "Channel": "Rhythm Tracks",
+    "Views": 1123113,
+    "Duration": "PT19S",
+    "Published Date": "2022-11-03T20:22:41Z",
+    "Likes": 37671,
+    "Comments": 253,
+    "Description": "Tennessee Whiskey-Chris Stapleton-Acoustic Guitar Lesson/Tutorial(Chords+Strumming+Embellishments) ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/2gfUxyWBnTc/default.jpg",
+    "Days Since Published": 724,
+    "Transcript Length": 3,
+    "Description Word Count": 6,
+    "Like to View Ratio": 0.03354159376661119,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music] [Music]"
+}

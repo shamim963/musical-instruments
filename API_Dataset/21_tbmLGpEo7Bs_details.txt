@@ -1,0 +1,22 @@
+{
+    "ID": 21,
+    "Title": "1 String Astronomia - Easy Tabs (Guitar Fingerstyle Tutorial)",
+    "Link": "https://www.youtube.com/watch?v=tbmLGpEo7Bs",
+    "Instrument": "Guitar",
+    "Channel": "Edward S.",
+    "Views": 1205944,
+    "Duration": "PT18S",
+    "Published Date": "2022-10-31T11:44:17Z",
+    "Likes": 41956,
+    "Comments": 165,
+    "Description": "coffindance #astronomia #guitartutorial #guitarfingerstyle #guitartutorialforbeginners #tabs #guitartabs.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/tbmLGpEo7Bs/default.jpg",
+    "Days Since Published": 728,
+    "Transcript Length": 0,
+    "Description Word Count": 7,
+    "Like to View Ratio": 0.03479100190390267,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=tbmLGpEo7Bs! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

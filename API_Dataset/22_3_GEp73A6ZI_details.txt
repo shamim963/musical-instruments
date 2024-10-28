@@ -1,0 +1,22 @@
+{
+    "ID": 22,
+    "Title": "I tried learning from a TikTok Guitar Tutorial with over 32 Million Views",
+    "Link": "https://www.youtube.com/watch?v=3_GEp73A6ZI",
+    "Instrument": "Guitar",
+    "Channel": "Edward Ong",
+    "Views": 4566283,
+    "Duration": "PT54S",
+    "Published Date": "2022-02-05T11:00:28Z",
+    "Likes": 268695,
+    "Comments": 960,
+    "Description": "This is Edward Ong's YouTube shorts on I tried learning from a TikTok Guitar Tutorial with over 32 Million Views. Sign up for my ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/3_GEp73A6ZI/default.jpg",
+    "Days Since Published": 996,
+    "Transcript Length": 19,
+    "Description Word Count": 25,
+    "Like to View Ratio": 0.05884326486115731,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "wow this guitar tutorial has 32 million views and over 1 million likes let's learn from it [Music] you"
+}

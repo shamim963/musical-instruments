@@ -1,0 +1,22 @@
+{
+    "ID": 19,
+    "Title": "Fingers still HURT from practising chords? Try THIS",
+    "Link": "https://www.youtube.com/watch?v=b5TRGTLJ0Ps",
+    "Instrument": "Guitar",
+    "Channel": "Andy Guitar",
+    "Views": 321874,
+    "Duration": "PT31S",
+    "Published Date": "2023-02-18T12:45:56Z",
+    "Likes": 12072,
+    "Comments": 95,
+    "Description": "https://www.andyguitar.co.uk/ ◁ ALL Andy's exclusive videos & courses ✓ FREE 10 DAY TRIAL of ALL my online courses (limited ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/b5TRGTLJ0Ps/default.jpg",
+    "Days Since Published": 618,
+    "Transcript Length": 100,
+    "Description Word Count": 20,
+    "Like to View Ratio": 0.03750535923995104,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "so what you'll often find when you're practicing chords is you'll get lines on your fingers begin as often are pressing down for dear life when they're not even strumming you don't even have to be pressing down at all to practice chord but if I'm practicing for example between the D chord to the G chord I don't actually have to press down at all I just need to touch the string and then touch the strings where they need to be on the G and I'm not actually pressing down to the Frets at all unless I'm strumming"
+}

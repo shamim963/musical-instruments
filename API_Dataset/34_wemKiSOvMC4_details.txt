@@ -1,0 +1,22 @@
+{
+    "ID": 34,
+    "Title": "Songs Intermediate Players Should be able to Play",
+    "Link": "https://www.youtube.com/watch?v=wemKiSOvMC4",
+    "Instrument": "Guitar",
+    "Channel": "Brandon D'Eon Music",
+    "Views": 2332733,
+    "Duration": "PT55S",
+    "Published Date": "2023-05-09T15:48:12Z",
+    "Likes": 130093,
+    "Comments": 1996,
+    "Description": "52 Week Guitar Player is CLOSED for enrollment until mid-June. Join the waiting list: https://brandondeon.com/survey-page2 My ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/wemKiSOvMC4/default.jpg",
+    "Days Since Published": 538,
+    "Transcript Length": 47,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.05576849129325988,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "here are four songs that intermediate guitar players should be able to play these are not very difficult Tunes even the last one so if you're an intermediate guitar player and you can't play them just quit [Music] [Music] [Music] one million YouTube subscribers now just leave"
+}

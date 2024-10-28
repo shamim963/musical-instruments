@@ -1,0 +1,22 @@
+{
+    "ID": 34,
+    "Title": "5 easy acoustic riffs #shorts",
+    "Link": "https://www.youtube.com/watch?v=xGCH9qkJnBQ",
+    "Instrument": "Guitar",
+    "Channel": "Kainoah Bowman",
+    "Views": 1504428,
+    "Duration": "PT1M1S",
+    "Published Date": "2023-04-19T03:31:46Z",
+    "Likes": 59580,
+    "Comments": 263,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/xGCH9qkJnBQ/default.jpg",
+    "Days Since Published": 558,
+    "Transcript Length": 141,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.039603091673380185,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "five easy acoustic riffs that anyone can play number one is the joker [Music] I'm using my Hawaiian harmonics cord cling for this it has all the chords you need and I'm using a g a c add nine and a d number two is Simple Man by Lynyrd Skynyrd starts with a c g a minor number three Bad Moon Rising starts with a D [Music] d g d for four Sweet Child of Mine so we all know this riff can't play that you can strum chords along with the lyrics and it's just d [Applause] C add nine G finally we have Mary Jane's Last Dance by Tom Petty it's a minor d back to a minor once again I'm playing all these songs with the help of Hawaiian harmonics chord cling I hope you enjoyed the lesson"
+}

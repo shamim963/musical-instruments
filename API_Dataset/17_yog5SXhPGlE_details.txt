@@ -1,0 +1,22 @@
+{
+    "ID": 17,
+    "Title": "Birds Of A Feather Billie Eilish Guitar Tutorial // Birds Of A Feather Guitar Lesson",
+    "Link": "https://www.youtube.com/watch?v=yog5SXhPGlE",
+    "Instrument": "Guitar",
+    "Channel": "The Groovy Guitar Dude",
+    "Views": 248102,
+    "Duration": "PT19S",
+    "Published Date": "2024-06-11T02:22:01Z",
+    "Likes": 17888,
+    "Comments": 37,
+    "Description": "Birds Of A Feather by Billie Eilish Guitar Tutorial // Birds Of A Feather Guitar Lesson for Beginners The Groovy Guitar Guide for ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/yog5SXhPGlE/default.jpg",
+    "Days Since Published": 139,
+    "Transcript Length": 0,
+    "Description Word Count": 24,
+    "Like to View Ratio": 0.07209937848143103,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=yog5SXhPGlE! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

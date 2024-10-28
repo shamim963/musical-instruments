@@ -1,0 +1,22 @@
+{
+    "ID": 1,
+    "Title": "The 1st chord everyone learns on guitar",
+    "Link": "https://www.youtube.com/watch?v=XvVjV2dVijA",
+    "Instrument": "Guitar",
+    "Channel": "Brandon D'Eon Music",
+    "Views": 3854742,
+    "Duration": "PT13S",
+    "Published Date": "2023-03-14T14:43:05Z",
+    "Likes": 230026,
+    "Comments": 2941,
+    "Description": "If you didn't subscribe to my channel and we met on the street, I'd be PISSED OFF (but not even mad): ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/XvVjV2dVijA/default.jpg",
+    "Days Since Published": 594,
+    "Transcript Length": 22,
+    "Description Word Count": 22,
+    "Like to View Ratio": 0.05967351381752657,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "this is the first chord everyone learns on guitar send this to a guitar player that's just learning to help them out"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 15,
+    "Title": "Guitar Chords",
+    "Link": "https://www.youtube.com/watch?v=qAlyjGrThGo",
+    "Instrument": "Guitar",
+    "Channel": "Guitar Compass",
+    "Views": 18791772,
+    "Duration": "PT3M20S",
+    "Published Date": "2011-10-18T17:57:05Z",
+    "Likes": 183891,
+    "Comments": 2973,
+    "Description": "Guitar Chords is a reference video for beginners by Peter Vogl that will teach you how to play 14 basic guitar chords. Learn over ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/qAlyjGrThGo/default.jpg",
+    "Days Since Published": 4758,
+    "Transcript Length": 0,
+    "Description Word Count": 25,
+    "Like to View Ratio": 0.00978571898381909,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=qAlyjGrThGo! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

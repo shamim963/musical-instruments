@@ -1,0 +1,22 @@
+{
+    "ID": 25,
+    "Title": "guitar tutorial easy #shorts #guitartutorial",
+    "Link": "https://www.youtube.com/watch?v=cHHUs9aQd-M",
+    "Instrument": "Guitar",
+    "Channel": "RBNC",
+    "Views": 8878401,
+    "Duration": "PT13S",
+    "Published Date": "2021-11-27T08:25:30Z",
+    "Likes": 213229,
+    "Comments": 2556,
+    "Description": "soothing guitar sound with beautiful lady ❣️ #shorts #guitartutorial Classical guitar vibes #shorts #guitartutorial guitar tutorial ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/cHHUs9aQd-M/default.jpg",
+    "Days Since Published": 1066,
+    "Transcript Length": 0,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.02401659938540735,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=cHHUs9aQd-M! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 49,
+    "Title": "Guitar Lesson For Kids - Part 1 - Absolute Beginner Series #guitar #kids",
+    "Link": "https://www.youtube.com/watch?v=XUf_xWZVpZ8",
+    "Instrument": "Guitar",
+    "Channel": "Kasey's Music Method",
+    "Views": 750838,
+    "Duration": "PT7M52S",
+    "Published Date": "2022-05-17T20:52:00Z",
+    "Likes": 4680,
+    "Comments": 0,
+    "Description": "Guitar Lesson For Kids - Part 1 - Absolute Beginner Series #guitar #kids #tutorial #lesson #beginner #children My books for ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/XUf_xWZVpZ8/default.jpg",
+    "Days Since Published": 894,
+    "Transcript Length": 0,
+    "Description Word Count": 21,
+    "Like to View Ratio": 0.006233035621532208,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: no element found: line 1, column 0"
+}
