@@ -1,0 +1,22 @@
+{
+    "ID": 94,
+    "Title": "Tracy Chapman Fast Car Guitar Tutorial + Lesson",
+    "Link": "https://www.youtube.com/watch?v=ca7RuPahaQc",
+    "Instrument": "Guitar",
+    "Channel": "Marty Music",
+    "Views": 3192840,
+    "Duration": "PT9M39S",
+    "Published Date": "2016-06-13T20:57:44Z",
+    "Likes": 49322,
+    "Comments": 1253,
+    "Description": "Latest Content - https://linktr.ee/martyschwartz Patreon - https://www.patreon.com/MartyMusic Website - http://www.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/ca7RuPahaQc/default.jpg",
+    "Days Since Published": 3058,
+    "Transcript Length": 782,
+    "Description Word Count": 10,
+    "Like to View Ratio": 0.015447689204595282,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] hey what's up you guys Marty Schwarz here gonna bring you a a song right now with some uh finger style stuff but not not too hard cape on the second fret got to have one of those to make it work um oh also I appreciate your support by subscribing to this uh new channel of mine I hope you like the environment I'm very happy to be here and hopefully teaching for the rest of my life and I can't wait uh to just keep making videos and videos and videos so I really appreciate that support and leaving comments liking the video all that stuff it really helps me and thanks for taking that Journey with me uh let's zoom in right now though and break this one down see you on the other end all all right so we've got the Capo on the second fret then we're going to form a C major chord and we're going to go like [Music] this and so what I'm doing is I'm pinching the a string D string and the B string of the C chord but I'm my index finger of that c chord is off and I bring it on then I'm hitting the finger off and the open B string [Music] again really [Music] slow then I'm pinching the third fret of the low E and the third fret of the B and I mean third fret up from the Capo and it's really it's a G chord but I'm we're going to be pinching the E string and the third of the B so you put that [Music] together then we're going to go while still holding that little piece of the G chord we're going to hit B and [Music] G [Music] so so then we're going to move up here and we got to count it if you know basically I think the easiest way to look at this is to look at your double dots to right there and see that it's boom boom boom three Frets down from the double dots double dots down one down one down one and then ring finger is a whole step down from the double dots so double dots one [Music] two okay so we hit we pinch [Music] that put that with [Music] this so a string and B string then the index finger moves down a whole step and ring finger moves down a half step [Music] so let's put that [Music] [Music] together [Music] [Music] [Music] and so on that second chord of this little movement up here we pinch the A and the B string and then we do that same thing of the BG the B dgs have arrived just like here right that so for this chord we do that too you put that [Music] together [Music] and what I like to do on this chord which it's totally optional you can just pinch it and go down but it adds a nice little color if you go so it's the pinch and then B GB to that one but that's totally up to you that's extra stuff here here's how that would [Music] sound ah one more time on that so here's how that would [Music] sound [Music] so then we need the bridge section which is just a strum thing okay okay so the bridgy poo is c g e minor D and then it does a little something on the next time so watch I remember we were C and then g g g g g g g g e minor d c e minor and the D D D D D D D C E minor and a feeling I could be someone c d [Music] so here's that bridge again I remember we were c chord four four counts G four four counts E minor for four counts 3 4 and D 2 3 4 then the i i c e minor d 2 3 4 C E minor d 2 3 4 c 2 3 4 so C2 D2 one more time the bridge c chord g chord E minor d c e minor d c e minor d c [Music] [Music] d [Music] all right there it was thank you so much really appreciate the support you guys um can't thank you enough also thanks for subscribing to this channel if there's a song you'd like to learn from me go ahead and uh like this video leave a comment below and let me know really appreciate that uh and I can't wait to see you again so until then see you"
+}

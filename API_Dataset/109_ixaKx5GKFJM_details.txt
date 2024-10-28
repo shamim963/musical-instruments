@@ -1,0 +1,22 @@
+{
+    "ID": 109,
+    "Title": "ED SHEERAN ONLY USES 4 CHORDS?",
+    "Link": "https://www.youtube.com/watch?v=ixaKx5GKFJM",
+    "Instrument": "Guitar",
+    "Channel": "MOSHAE BEATS",
+    "Views": 3798573,
+    "Duration": "PT38S",
+    "Published Date": "2023-02-05T04:43:06Z",
+    "Likes": 175355,
+    "Comments": 2199,
+    "Description": "A cool video of Ed Sheeran sharing how to play 1 of his songs. #edsheeran #guitarist #guitar #guitarplayer #musicproducer ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/ixaKx5GKFJM/default.jpg",
+    "Days Since Published": 631,
+    "Transcript Length": 0,
+    "Description Word Count": 20,
+    "Like to View Ratio": 0.046163388198673556,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=ixaKx5GKFJM! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

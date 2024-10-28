@@ -1,0 +1,22 @@
+{
+    "ID": 79,
+    "Title": "Songs beginners should be able to play",
+    "Link": "https://www.youtube.com/watch?v=AtRqWKyBq8s",
+    "Instrument": "Guitar",
+    "Channel": "Brandon D'Eon Music",
+    "Views": 1754054,
+    "Duration": "PT50S",
+    "Published Date": "2023-05-24T01:49:08Z",
+    "Likes": 98067,
+    "Comments": 1014,
+    "Description": "52 Week Guitar Player is CLOSED for enrollment until mid-June. Join the waiting list: https://brandondeon.com/survey-page2 My ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/AtRqWKyBq8s/default.jpg",
+    "Days Since Published": 523,
+    "Transcript Length": 0,
+    "Description Word Count": 17,
+    "Like to View Ratio": 0.05590876905728102,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: no element found: line 1, column 0"
+}

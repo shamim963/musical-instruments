@@ -1,0 +1,22 @@
+{
+    "ID": 73,
+    "Title": "POV: You Buy Your First CLASSICAL GUITAR ‼️",
+    "Link": "https://www.youtube.com/watch?v=JYitinyEq1Y",
+    "Instrument": "Guitar",
+    "Channel": "David Pazmino",
+    "Views": 2753454,
+    "Duration": "PT1M1S",
+    "Published Date": "2023-11-28T16:24:55Z",
+    "Likes": 173031,
+    "Comments": 826,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/JYitinyEq1Y/default.jpg",
+    "Days Since Published": 335,
+    "Transcript Length": 185,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.06284143479426205,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "wait I forgot I have to hold it like this now please tell me it's the same tuning they forgot to put dots on the fretboard I have to return it please tell me Marty Schwarz has Classical lessons these strings feel a lot softer for some reason oh they're made of plastic how am I supposed to reach these higher Frets with this in the way they forgot to put a hook for this trap how am I supposed to play it while standing wait so this is just like bass right it's illegal to use a pick I think they made a mistake while making this there's no Bridge pins ah the stairway of classical is it just me or does this neck seem a little wider my C isn't even long enough to cover all the Frets wait what is [Music] flamco I got to admit finger style sounds a lot more prettier on this okay so I assume straight off the bat there's no distortion on this that Rift sounds great on any Guitar let's see how this sounds on classical"
+}

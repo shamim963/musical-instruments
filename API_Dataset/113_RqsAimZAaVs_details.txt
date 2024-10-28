@@ -1,0 +1,22 @@
+{
+    "ID": 113,
+    "Title": "Somewhere Only We Know Guitar Cover Keane 🎸|Tabs + Chords|",
+    "Link": "https://www.youtube.com/watch?v=RqsAimZAaVs",
+    "Instrument": "Guitar",
+    "Channel": "GuitarZero2Hero Express",
+    "Views": 1008172,
+    "Duration": "PT4M13S",
+    "Published Date": "2020-11-20T21:00:05Z",
+    "Likes": 24553,
+    "Comments": 285,
+    "Description": "Somewhere Only We Know Guitar Cover Keane |Tabs + Chords| ▻ FREE Chord & Songwriting Guitar eBook ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/RqsAimZAaVs/default.jpg",
+    "Days Since Published": 1437,
+    "Transcript Length": 0,
+    "Description Word Count": 18,
+    "Like to View Ratio": 0.02435397928131311,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=RqsAimZAaVs! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

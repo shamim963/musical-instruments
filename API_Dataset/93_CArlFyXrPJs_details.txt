@@ -1,0 +1,22 @@
+{
+    "ID": 93,
+    "Title": "Having You Near Me - Air Supply (1980) - Easy Guitar Chords Tutorial with Lyrics",
+    "Link": "https://www.youtube.com/watch?v=CArlFyXrPJs",
+    "Instrument": "Guitar",
+    "Channel": "Doc OTEP Studio",
+    "Views": 222571,
+    "Duration": "PT3M24S",
+    "Published Date": "2023-05-23T05:23:11Z",
+    "Likes": 951,
+    "Comments": 9,
+    "Description": "Having You Near Me - Air Supply (1980) - Easy Guitar Chords Tutorial with Lyrics [Verse 1] I came to you and never asked too ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/CArlFyXrPJs/default.jpg",
+    "Days Since Published": 524,
+    "Transcript Length": 0,
+    "Description Word Count": 26,
+    "Like to View Ratio": 0.004272793850052343,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=CArlFyXrPJs! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

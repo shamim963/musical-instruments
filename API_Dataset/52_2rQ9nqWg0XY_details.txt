@@ -1,0 +1,22 @@
+{
+    "ID": 52,
+    "Title": "GUITAR",
+    "Link": "https://www.youtube.com/watch?v=2rQ9nqWg0XY",
+    "Instrument": "Guitar",
+    "Channel": "Ricky Berwick",
+    "Views": 4470897,
+    "Duration": "PT21S",
+    "Published Date": "2022-07-15T19:30:00Z",
+    "Likes": 170097,
+    "Comments": 4428,
+    "Description": "Thanks to these amazing guys for sponsoring this channel! • META PCs - https://www.metapcs.com/ref/rickyberwick • Use code ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/2rQ9nqWg0XY/default.jpg",
+    "Days Since Published": 835,
+    "Transcript Length": 0,
+    "Description Word Count": 18,
+    "Like to View Ratio": 0.03804538552330774,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=2rQ9nqWg0XY! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

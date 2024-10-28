@@ -1,0 +1,22 @@
+{
+    "ID": 98,
+    "Title": "beabadoobee - the perfect pair // guitar tutorial",
+    "Link": "https://www.youtube.com/watch?v=6_yr7BTcfT8",
+    "Instrument": "Guitar",
+    "Channel": "salamander7125",
+    "Views": 350196,
+    "Duration": "PT38S",
+    "Published Date": "2023-02-11T14:00:05Z",
+    "Likes": 13346,
+    "Comments": 132,
+    "Description": "Discord: https://discord.gg/sEQaqhv8 Patreon: https://www.patreon.com/salamander7125 Spotify: ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/6_yr7BTcfT8/default.jpg",
+    "Days Since Published": 625,
+    "Transcript Length": 5,
+    "Description Word Count": 6,
+    "Like to View Ratio": 0.03811008692275183,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] [Music] [Music] thank you"
+}

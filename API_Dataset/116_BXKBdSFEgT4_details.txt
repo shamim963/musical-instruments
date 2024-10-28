@@ -1,0 +1,22 @@
+{
+    "ID": 116,
+    "Title": "potsu - bossa uh // guitar tutorial",
+    "Link": "https://www.youtube.com/watch?v=BXKBdSFEgT4",
+    "Instrument": "Guitar",
+    "Channel": "salamander7125",
+    "Views": 274991,
+    "Duration": "PT43S",
+    "Published Date": "2023-03-15T13:00:06Z",
+    "Likes": 15786,
+    "Comments": 98,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/BXKBdSFEgT4/default.jpg",
+    "Days Since Published": 593,
+    "Transcript Length": 4,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.05740551508958475,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] thank you [Music]"
+}

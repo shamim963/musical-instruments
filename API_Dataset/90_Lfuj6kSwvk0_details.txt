@@ -1,0 +1,22 @@
+{
+    "ID": 90,
+    "Title": "6 years of guitar in 1 min",
+    "Link": "https://www.youtube.com/watch?v=Lfuj6kSwvk0",
+    "Instrument": "Guitar",
+    "Channel": "molly mcphaul",
+    "Views": 7001882,
+    "Duration": "PT57S",
+    "Published Date": "2022-01-16T05:30:11Z",
+    "Likes": 411227,
+    "Comments": 4041,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/Lfuj6kSwvk0/default.jpg",
+    "Days Since Published": 1016,
+    "Transcript Length": 14,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.05873092405727489,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "evolution of me teaching myself guitar for the past six years [Music] [Music] [Music]"
+}

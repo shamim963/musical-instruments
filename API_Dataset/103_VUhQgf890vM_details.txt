@@ -1,0 +1,22 @@
+{
+    "ID": 103,
+    "Title": "Coco - Remember Me (Recuerdame) Guitar Tutorial",
+    "Link": "https://www.youtube.com/watch?v=VUhQgf890vM",
+    "Instrument": "Guitar",
+    "Channel": "Tab Sheet Music",
+    "Views": 9168370,
+    "Duration": "PT1M13S",
+    "Published Date": "2018-02-21T23:42:13Z",
+    "Likes": 110911,
+    "Comments": 1331,
+    "Description": "Recuerdame Guitarra Tutorial Remember Me Guitar Tutorial - - - - - - - - - - - - - - - - - - - - ▸ Subscribe for more ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/VUhQgf890vM/default.jpg",
+    "Days Since Published": 2440,
+    "Transcript Length": 84,
+    "Description Word Count": 32,
+    "Like to View Ratio": 0.012097133950745879,
+    "Definition": "hd",
+    "Caption Status": "true",
+    "Transcript": "remember me   though i have to say goodbye remember me Don't let it make you cry For ever if I'm far away\nI hold you in my heart i sing a secret song to you\nEach night we are apart remember me Though I have to travel far remember me Each time you hear a sad guitar know that i am with you The only way that I can be Until you’re in my arms again remember me . Thanks for watching the video.  "
+}

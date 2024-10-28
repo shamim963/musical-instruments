@@ -1,0 +1,22 @@
+{
+    "ID": 106,
+    "Title": "505 - Arctic Monkeys (Easy Guitar Tabs &amp; chords Tutorial)",
+    "Link": "https://www.youtube.com/watch?v=yaUiNN3WDsQ",
+    "Instrument": "Guitar",
+    "Channel": "GUITABZ™ 🎸",
+    "Views": 1027983,
+    "Duration": "PT4M26S",
+    "Published Date": "2022-07-22T11:54:12Z",
+    "Likes": 19318,
+    "Comments": 182,
+    "Description": "505 - Arctic Monkeys (Easy Guitar Tabs & chords Tutorial)",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/yaUiNN3WDsQ/default.jpg",
+    "Days Since Published": 829,
+    "Transcript Length": 0,
+    "Description Word Count": 10,
+    "Like to View Ratio": 0.018792139558728112,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=yaUiNN3WDsQ! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

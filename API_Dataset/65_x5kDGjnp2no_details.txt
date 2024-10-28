@@ -1,0 +1,22 @@
+{
+    "ID": 65,
+    "Title": "Jazz Guitar Chord Progression Exercise",
+    "Link": "https://www.youtube.com/watch?v=x5kDGjnp2no",
+    "Instrument": "Guitar",
+    "Channel": "JazzGuitarOnline",
+    "Views": 904303,
+    "Duration": "PT29S",
+    "Published Date": "2020-01-22T14:45:46Z",
+    "Likes": 23341,
+    "Comments": 215,
+    "Description": "Tabs and full lesson: https://www.jazzguitar.be/blog/17-essential-jazz-guitar-chords-beginners/ A short chord progression exercise ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/x5kDGjnp2no/default.jpg",
+    "Days Since Published": 1741,
+    "Transcript Length": 3,
+    "Description Word Count": 11,
+    "Like to View Ratio": 0.025811038999096543,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] [Music] [Music]"
+}

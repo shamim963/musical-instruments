@@ -1,0 +1,22 @@
+{
+    "ID": 92,
+    "Title": "Top 5 Acoustic Songs to Play for your Friends | 2021",
+    "Link": "https://www.youtube.com/watch?v=hJZwOfu-Vks",
+    "Instrument": "Guitar",
+    "Channel": "tjbguitar",
+    "Views": 1359046,
+    "Duration": "PT1M",
+    "Published Date": "2021-03-24T00:57:08Z",
+    "Likes": 69711,
+    "Comments": 432,
+    "Description": "instagram @tjbguitar tiktok @timbirky.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/hJZwOfu-Vks/default.jpg",
+    "Days Since Published": 1314,
+    "Transcript Length": 0,
+    "Description Word Count": 4,
+    "Like to View Ratio": 0.05129406951641077,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=hJZwOfu-Vks! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

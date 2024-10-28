@@ -1,0 +1,22 @@
+{
+    "ID": 102,
+    "Title": "PRETENDING to play GUITAR for the FIRST TIME😂",
+    "Link": "https://www.youtube.com/watch?v=LS5NuMQ3y_8",
+    "Instrument": "Guitar",
+    "Channel": "Jon Dretto",
+    "Views": 45409985,
+    "Duration": "PT1M",
+    "Published Date": "2022-04-16T13:43:41Z",
+    "Likes": 2257978,
+    "Comments": 8651,
+    "Description": "New Single \"Broken Promise\" Out Now! Listen on: YouTube: https://www.youtube.com/watch?v=6pguzhjpJVo Spotify: ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/LS5NuMQ3y_8/default.jpg",
+    "Days Since Published": 926,
+    "Transcript Length": 113,
+    "Description Word Count": 12,
+    "Like to View Ratio": 0.04972426218594875,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "hey welcome to dish guitars here for your apartment yes what you're looking for i'm looking to get my first guitar okay let me know if there's anything that tickles your fancy i like this one a lot you want to see it yeah i love you very special guitar really gorgeous piece wanna plug it in yeah so how much is this guitar that one's ten thousand dollars starting something good how should i hold it up like that [Music] so uh we do offer a wonderful lesson program here really great place to start does this amp have any distortion on [Applause] [Music] [Music] where'd you look at that tick tock"
+}

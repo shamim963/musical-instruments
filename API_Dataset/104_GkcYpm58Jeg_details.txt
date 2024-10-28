@@ -1,0 +1,22 @@
+{
+    "ID": 104,
+    "Title": "Die With a Smile - Lady Gaga, Bruno Mars | EASY Guitar Tutorial with Chords - Guitar Lessons",
+    "Link": "https://www.youtube.com/watch?v=GkcYpm58Jeg",
+    "Instrument": "Guitar",
+    "Channel": "Guitar Intensive",
+    "Views": 120340,
+    "Duration": "PT5M20S",
+    "Published Date": "2024-09-07T14:15:04Z",
+    "Likes": 2417,
+    "Comments": 30,
+    "Description": "Die With a Smile - Lady Gaga, Bruno Mars | EASY Guitar Tutorial with Chords / Lyrics and Strumming Patterns - Guitar Lessons ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/GkcYpm58Jeg/default.jpg",
+    "Days Since Published": 51,
+    "Transcript Length": 0,
+    "Description Word Count": 24,
+    "Like to View Ratio": 0.020084759847099884,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=GkcYpm58Jeg! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

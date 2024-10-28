@@ -1,0 +1,22 @@
+{
+    "ID": 111,
+    "Title": "Heaven Knows - Orange and Lemons | Guitar Tutorial",
+    "Link": "https://www.youtube.com/watch?v=WfvRVbAGf3o",
+    "Instrument": "Guitar",
+    "Channel": "Boss Biong",
+    "Views": 456388,
+    "Duration": "PT4M17S",
+    "Published Date": "2024-01-09T13:42:19Z",
+    "Likes": 3123,
+    "Comments": 110,
+    "Description": "orangeandlemons #heavenknows #guitarchords #guitartutorial #bossbiong Wag nyo kalimutan mag like and subscribe sa ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/WfvRVbAGf3o/default.jpg",
+    "Days Since Published": 293,
+    "Transcript Length": 0,
+    "Description Word Count": 14,
+    "Like to View Ratio": 0.006842861775506806,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=WfvRVbAGf3o! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

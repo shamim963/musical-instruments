@@ -1,0 +1,22 @@
+{
+    "ID": 115,
+    "Title": "Lover&#39;s Moon - Glenn Frey (1984) - Easy Guitar Chords Tutorial with Lyrics",
+    "Link": "https://www.youtube.com/watch?v=-5HQRD643bI",
+    "Instrument": "Guitar",
+    "Channel": "Doc OTEP Studio",
+    "Views": 349091,
+    "Duration": "PT3M34S",
+    "Published Date": "2023-04-23T04:59:13Z",
+    "Likes": 1689,
+    "Comments": 39,
+    "Description": "Lover's Moon - Glenn Frey (1984) - Easy Guitar Chords Tutorial with Lyrics There's a lover's moon tonight As I look back over my ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/-5HQRD643bI/default.jpg",
+    "Days Since Published": 554,
+    "Transcript Length": 0,
+    "Description Word Count": 25,
+    "Like to View Ratio": 0.004838279990031252,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "Error extracting transcript: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=-5HQRD643bI! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

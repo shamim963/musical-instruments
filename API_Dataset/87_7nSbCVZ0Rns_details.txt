@@ -1,0 +1,22 @@
+{
+    "ID": 87,
+    "Title": "Alice in Chains Nutshell Guitar Lesson + Tutorial",
+    "Link": "https://www.youtube.com/watch?v=7nSbCVZ0Rns",
+    "Instrument": "Guitar",
+    "Channel": "Marty Music",
+    "Views": 1362095,
+    "Duration": "PT6M50S",
+    "Published Date": "2019-07-15T16:45:00Z",
+    "Likes": 28661,
+    "Comments": 1001,
+    "Description": "Latest Content - https://linktr.ee/martyschwartz Patreon - https://www.patreon.com/MartyMusic Website - http://www.",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/7nSbCVZ0Rns/default.jpg",
+    "Days Since Published": 1932,
+    "Transcript Length": 377,
+    "Description Word Count": 10,
+    "Like to View Ratio": 0.021041850972215594,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] hey what's up you guys Marty Schwartz here with Marty music really appreciate you hanging out with me here gonna break down nutshell by Allison chains lots of requests for it and took me a long time to do this one so anyway thanks for your patience we're gonna tune down a half step and the chords are easy the rhythm is a little weird but let's get to it so I've been thinking about how to teach this to you guys and I want to start with the C AB 9 chord which is third fret a string second fret D and then I'm using my ring finger on that third fret B and I'm getting the open high E in there as well and so we're gonna start figuring out the rhythm on this chord of the progression so check it out [Music] once again and and so what I'm going to is I'm going from that see at nine and I'm adding my pinkie to the third fret high E like this and then right after that I'm switching to the E minor shape while keeping these there watch [Music] so the C&I now [Music] and so here's how I'm thinking of the next transition I'm going one two on that Imai nur the seven we're calling this a minor seven so like that from the top because then I'm breaking it into this duh-duh-duh-duh and then it starts over in that da-duh da-duh is also the intro of the song and so what that is dead a duh duh duh duh duh so from the top now [Music] Oh [Music] [Music] [Music] see see [Music] and so then you've got a hammer-on on that second fret d sometimes [Music] I'm using that that pinky going to that third fret high E as just a way to kind of keep track of my rhythm [Music] another thing is taking that ring finger off [Music] alright there was thanks again you guys really appreciate the support you can leave your requests in the comments below while you're down there don't forget to Like and subscribe thank you again hope to see you soon it's not the same changing so much [Music] [Music] [Applause] [Music]"
+}

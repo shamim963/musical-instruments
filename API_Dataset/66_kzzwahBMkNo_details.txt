@@ -1,0 +1,22 @@
+{
+    "ID": 66,
+    "Title": "Laufey - From The Start // Guitar Tutorial",
+    "Link": "https://www.youtube.com/watch?v=kzzwahBMkNo",
+    "Instrument": "Guitar",
+    "Channel": "salamander7125",
+    "Views": 945993,
+    "Duration": "PT38S",
+    "Published Date": "2023-07-24T14:00:08Z",
+    "Likes": 30696,
+    "Comments": 213,
+    "Description": "Discord: https://discord.gg/sEQaqhv8 Patreon: https://www.patreon.com/salamander7125 Spotify: https://spotify.link/TGVZBfHncEb ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/kzzwahBMkNo/default.jpg",
+    "Days Since Published": 462,
+    "Transcript Length": 5,
+    "Description Word Count": 7,
+    "Like to View Ratio": 0.03244844306458927,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "foreign [Music] [Music] [Music] foreign"
+}

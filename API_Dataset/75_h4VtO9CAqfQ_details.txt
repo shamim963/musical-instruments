@@ -1,0 +1,22 @@
+{
+    "ID": 75,
+    "Title": "Easy Guitar Strumming Patterns for Beginners | strum patterns | Shorts | Anmol",
+    "Link": "https://www.youtube.com/watch?v=h4VtO9CAqfQ",
+    "Instrument": "Guitar",
+    "Channel": "Guitar Shorts",
+    "Views": 3272964,
+    "Duration": "PT34S",
+    "Published Date": "2021-07-12T14:00:14Z",
+    "Likes": 115737,
+    "Comments": 615,
+    "Description": "Shorts This is the most basic guitar strumming pattern for beginners to start with. In this short version tutorial, beginner guitarist can ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/h4VtO9CAqfQ/default.jpg",
+    "Days Since Published": 1204,
+    "Transcript Length": 4,
+    "Description Word Count": 23,
+    "Like to View Ratio": 0.035361525516320984,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] so [Music] you"
+}

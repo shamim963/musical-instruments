@@ -1,0 +1,22 @@
+{
+    "ID": 60,
+    "Title": "I filled my ukulele with water and it sounds UNREAL",
+    "Link": "https://www.youtube.com/watch?v=BqGBwLmflNo",
+    "Instrument": "Guitar",
+    "Channel": "Elise Ecklund",
+    "Views": 26888618,
+    "Duration": "PT16S",
+    "Published Date": "2023-10-04T15:24:45Z",
+    "Likes": 662858,
+    "Comments": 4350,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/BqGBwLmflNo/default.jpg",
+    "Days Since Published": 390,
+    "Transcript Length": 45,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.024651992155193696,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "I filled my ukulele with water because I wanted to see how it would sound here's the results no low key it has some kind of Reverb watery sound effect I love the unique splashy element that it adds but I think I ruined it"
+}

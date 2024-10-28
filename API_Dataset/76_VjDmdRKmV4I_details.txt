@@ -1,0 +1,22 @@
+{
+    "ID": 76,
+    "Title": "best part- daniel caesar ft. h.e.r. | no capo | easy guitar tutorial for beginners",
+    "Link": "https://www.youtube.com/watch?v=VjDmdRKmV4I",
+    "Instrument": "Guitar",
+    "Channel": "Jiyon Kim Music",
+    "Views": 3032504,
+    "Duration": "PT4M34S",
+    "Published Date": "2020-06-14T12:00:12Z",
+    "Likes": 71715,
+    "Comments": 1508,
+    "Description": "hi guys!! #bestpart by Daniel Caesar ft. H.E.R. is one of my fav songs! super easy with just 4 chords :) time stamp of the chords: ...",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/VjDmdRKmV4I/default.jpg",
+    "Days Since Published": 1597,
+    "Transcript Length": 576,
+    "Description Word Count": 27,
+    "Like to View Ratio": 0.023648773422887487,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "[Music] hey guys my name is Gian and today I'll be teaching you how to play best part by her and Daniel Cesar on guitar so for this song you're not going to need any capo and it's gonna be in standard tuning that you're only gonna need four chord sequences throughout the whole entire thing and that includes the verse the pre-chorus the chorus and the bridge so let's get started so the four chords that you're going to be using are D major 7 a minor 7th G major 7 and B flat major 7th so I'm gonna number the strings one two six one being the thinnest and six being the thickest so our first chord here which is the D major seven you're gonna need to press down the second fret for the first second and third strings so the nice thing about this chord is you can press down all the frets with just one finger so again you need to press down the second fret for the first string second string and the third string and then you just drawn like this so they do each of them cords twice so you do strum slap strum slap so so the second chord is a minor seventh so for this one you're gonna need to press down the first fret on the second string and then the second fret of the fourth string and you just strum okay and again the strumming pattern is strong slap strong like that so putting the first two together sounds like this so our third chord here is the g major seventh so for this one you're gonna need to press down the third fret on the sixth string third fret on the second string and the fourth fret on third and the fourth strings so for the g major 7th chord we're gonna be muting our fifth string so what that means is that it's in the in-between point of actually making the note like come out as a sound and being open so if you move your index finger over slightly that it's touching the fifth string a little bit it should make a muted sound like this and that's how it should sound when we're strumming so this is what it should sound like [Music] all right so putting the three chords together like that so our fourth chord is gonna be the B flat major seventh chord so this one is really easy because it's literally the same exact shape as the G major seven but just on the sixth fret so you're gonna need to press down the sixth fret on the sixth string 6 fret on the second string 7th fret on the 3rd and the 4th strings so again we're going to be muting the fifth string so it should sound like this while we're strumming like that and don't forget that the 4th chord also has a same strumming pattern which is strum slaps jump slap so this is what the whole song sounds like so I hope you guys enjoyed this tutorial I know it's a pretty old song but I really like this one and it was actually really easy to learn because it's only four chords that's repeating over and over so don't forget to Like subscribe and comment down below what other songs you'd like to hear and thank you for watching [Music]"
+}

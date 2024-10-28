@@ -1,0 +1,22 @@
+{
+    "ID": 101,
+    "Title": "The Most Beautiful *Secret 🤐* Chord!!!",
+    "Link": "https://www.youtube.com/watch?v=TWawSIV2MS0",
+    "Instrument": "Guitar",
+    "Channel": "FutureSelf Music",
+    "Views": 1537604,
+    "Duration": "PT53S",
+    "Published Date": "2022-11-26T20:03:35Z",
+    "Likes": 75596,
+    "Comments": 1414,
+    "Description": "",
+    "Tags": [],
+    "Thumbnail URL": "https://i.ytimg.com/vi/TWawSIV2MS0/default.jpg",
+    "Days Since Published": 701,
+    "Transcript Length": 148,
+    "Description Word Count": 0,
+    "Like to View Ratio": 0.04916480446200712,
+    "Definition": "hd",
+    "Caption Status": "false",
+    "Transcript": "this is by far the most beautiful sounding secret chord that no one ever plays I never see anyone playing this except for a very select few uh very talented musicians that I know of uh and that I admire very greatly uh this chord is very beautiful and it's a major it's a major seventh chord but the way in which it's voiced is the important part about this now you can say okay that's cool but the reason that this is important for the guitar and it's most beautiful on the guitar is because people tend to not play this octave range if you notice people play like stuff like this you know stuff that's pretty close together in terms of the screen sets but listen to this [Music] beautiful why because there's a fifth in the bass and then you have the colors on top"
+}
