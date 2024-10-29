@@ -1,0 +1,66 @@
+import pandas as pd
+from google.colab import drive, files
+import json
+
+# اتصال به گوگل درایو
+drive.mount('/content/drive')
+
+# تعریف لیستی از داده‌های نمونه برای 100 ویدیو
+videos_data = []
+for i in range(1, 101):
+    videos_data.append({
+        'video_id': i,
+        'instrument': 'پیانو' if i % 2 == 0 else 'گیتار',
+        'upload_date': '2021-01-01' if i <= 50 else '2022-05-15',
+        'days_since_upload': i * 5,
+        'transcription_length': 300 + i * 10,
+        'description_word_count': 150 + i * 2,
+        'views': 10000 + i * 100,
+        'likes': 500 + i * 5,
+        'comments': 30 + i
+    })
+
+# تعریف توابع برای تبدیل متغیرهای کیفی به اعداد باینری یا دسته‌ای
+def instrument_to_numeric(instrument):
+    if instrument == 'پیانو':
+        return 1
+    elif instrument == 'گیتار':
+        return 2
+    else:
+        return 0
+
+def upload_date_to_numeric(upload_date):
+    threshold_date = '2022-01-01'
+    if upload_date < threshold_date:
+        return 1
+    else:
+        return 2
+
+# تبدیل داده‌ها به فرم ماتریسی
+matrix_data = []
+for video in videos_data:
+    matrix_data.append([
+        video['video_id'],
+        instrument_to_numeric(video['instrument']),
+        upload_date_to_numeric(video['upload_date']),
+        video['days_since_upload'],
+        video['transcription_length'],
+        video['description_word_count'],
+        video['views'],
+        video['likes'],
+        video['comments'],
+        video['likes'] / video['views'] if video['views'] > 0 else 0
+    ])
+
+# تعریف ستون‌ها و ایجاد دیتافریم پانداس
+columns = ['Video ID', 'Instrument', 'Upload Date', 'Days Since Upload', 'Transcription Length', 'Description Word Count', 'Views', 'Likes', 'Comments', 'Likes to Views Ratio']
+df = pd.DataFrame(matrix_data, columns=columns)
+
+# نمایش ماتریس داده‌ها به صورت جدول خط کشی شده
+print(df.to_string(index=False))
+
+# ذخیره فایل به صورت CSV در گوگل درایو
+df.to_csv('/content/drive/My Drive/video_data_matrix.csv', index=False)
+
+# دانلود فایل CSV در محیط کولب
+files.download('/content/drive/My Drive/video_data_matrix.csv')
