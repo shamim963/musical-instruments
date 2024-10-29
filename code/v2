@@ -1,0 +1,181 @@
+from googleapiclient.discovery import build
+from youtube_transcript_api import YouTubeTranscriptApi
+import pandas as pd
+import json
+import os
+from datetime import datetime
+
+class YouTubeScraper:
+    def __init__(self, api_key):
+        self.api_key = api_key
+        self.youtube = build('youtube', 'v3', developerKey=self.api_key)
+
+    def search_videos(self, query, instrument, max_results=100):
+        """Search for educational videos on YouTube."""
+        videos = []
+        next_page_token = None
+        total_results = 0
+
+        while total_results < max_results:
+            request = self.youtube.search().list(
+                part='snippet',
+                q=query,
+                type='video',
+                maxResults=min(50, max_results - total_results),
+                pageToken=next_page_token
+            )
+            response = request.execute()
+
+            for index, item in enumerate(response['items'], start=total_results + 1):
+                video_data = {
+                    'id': index,
+                    'title': item['snippet']['title'],
+                    'description': item['snippet']['description'],
+                    'video_id': item['id']['videoId'],
+                    'channel_title': item['snippet']['channelTitle'],
+                    'publish_time': item['snippet']['publishedAt'],
+                    'video_url': f"https://www.youtube.com/watch?v={item['id']['videoId']}",
+                    'thumbnail_url': item['snippet']['thumbnails']['default']['url'],
+                    'tags': item['snippet'].get('tags', []),
+                    'instrument': instrument  # اضافه کردن نوع ساز
+                }
+                videos.append(video_data)
+                total_results += 1
+
+            next_page_token = response.get('nextPageToken')
+            if not next_page_token:
+                break
+
+        return videos
+
+    def get_transcript(self, video_id):
+        """Extract the speech transcript from the video using YouTube Transcript API."""
+        try:
+            transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
+            transcript_text = " ".join([entry['text'] for entry in transcript_list])
+            return transcript_text
+        except Exception as e:
+            return f"Error extracting transcript: {e}"
+
+    def get_video_details(self, video_id):
+        """Get additional details like like count, view count, and comment count."""
+        request = self.youtube.videos().list(
+            part="statistics,contentDetails", id=video_id
+        )
+        response = request.execute()
+        if response['items']:
+            statistics = response['items'][0]['statistics']
+            content_details = response['items'][0]['contentDetails']
+            return {
+                'view_count': int(statistics.get('viewCount', 0)),
+                'like_count': int(statistics.get('likeCount', 0)),
+                'comment_count': int(statistics.get('commentCount', 0)),
+                'duration': content_details.get('duration', 'N/A'),
+                'definition': content_details.get('definition', 'N/A'),
+                'caption_status': content_details.get('caption', 'not available')
+            }
+        return {'view_count': 0, 'like_count': 0, 'comment_count': 0, 'duration': 'N/A', 'definition': 'N/A', 'caption_status': 'not available'}
+
+# استفاده از کلاس
+api_key = 'AIzaSyCYPPzvy0QLjjuOq3LYL7iG5lbTbFBs7nU'  # جایگزین با کلید API شما
+scraper = YouTubeScraper(api_key)
+
+# جستجوی ویدیوهای آموزشی مرتبط با گیتار
+videos = scraper.search_videos('Guitar tutorials', instrument='Guitar', max_results=100)
+
+# ایجاد پوشه برای ذخیره فایل‌ها در درایو C
+output_directory = r'C:\Youtube.Data'
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
+
+# نمایش ویدیوهای استخراج شده و تبدیل آن‌ها به متن گفتار
+if videos:
+    video_results = []
+
+    for video in videos:
+        print(f"Processing video: {video['title']}")
+
+        # استخراج متن گفتار از ویدیو با استفاده از YouTube Transcript API
+        transcript = scraper.get_transcript(video['video_id'])
+        video_details = scraper.get_video_details(video['video_id'])
+
+        # اضافه کردن متن گفتار و جزئیات اضافی به ویدیو
+        video['transcript'] = transcript
+        video['transcript_length'] = len(transcript.split()) if "Error" not in transcript else 0
+        video['description_word_count'] = len(video['description'].split())
+
+        # محاسبه تعداد روزهای از انتشار ویدیو
+        publish_date = datetime.strptime(video['publish_time'], '%Y-%m-%dT%H:%M:%SZ')
+        current_date = datetime.now()
+        video['days_since_published'] = (current_date - publish_date).days
+
+        # اضافه کردن جزئیات آماری ویدیو
+        video.update(video_details)
+
+        # محاسبه نسبت لایک به بازدید
+        if video_details['view_count'] > 0:
+            video['like_to_view_ratio'] = video_details['like_count'] / video_details['view_count']
+        else:
+            video['like_to_view_ratio'] = 0
+
+        video_results.append(video)
+
+        # ذخیره جزئیات هر ویدیو و متن گفتار به یک فایل متنی با ساختار JSON
+        output_file_path = os.path.join(output_directory, f"{video['id']}_{video['video_id']}_details.txt")
+        with open(output_file_path, 'w', encoding='utf-8') as txt_file:
+            json.dump({
+                "ID": video['id'],
+                "Title": video['title'],
+                "Link": video['video_url'],
+                "Instrument": video['instrument'],  # استفاده از ساز
+                "Channel": video['channel_title'],
+                "Views": video['view_count'],
+                "Duration": video['duration'],
+                "Published Date": video['publish_time'],
+                "Likes": video['like_count'],
+                "Comments": video['comment_count'],
+                "Description": video['description'],
+                "Tags": video['tags'],
+                "Thumbnail URL": video['thumbnail_url'],
+                "Days Since Published": video['days_since_published'],
+                "Transcript Length": video['transcript_length'],
+                "Description Word Count": video['description_word_count'],
+                "Like to View Ratio": video['like_to_view_ratio'],
+                "Definition": video['definition'],
+                "Caption Status": video['caption_status'],
+                "Transcript": transcript  # اضافه کردن متن گفتار به خروجی
+            }, txt_file, indent=4, ensure_ascii=False)
+
+    # ساخت یک DataFrame از داده‌ها
+    df = pd.DataFrame(video_results)
+
+    # ذخیره DataFrame به فایل Excel
+    df.to_excel(os.path.join(output_directory, 'youtube_videos_with_details.xlsx'), index=False)
+
+    # ذخیره DataFrame به فایل JSON
+    df.to_json(os.path.join(output_directory, 'youtube_videos_with_details.json'), orient='records', force_ascii=False)
+
+    # نمایش اطلاعات ویدیو به صورت فرمت شده
+    print("Data has been successfully saved to 'youtube_videos_with_details.xlsx' and 'youtube_videos_with_details.json'")
+    print("\nVideos Output:")
+    print("--------------------------------------------------")
+
+    for video in video_results:
+        print(f"ID: {video['id']}")
+        print(f"Title: {video['title']}")
+        print(f"Instrument: {video['instrument']}")
+        print(f"Description: {video['description']}")
+        print(f"Channel: {video['channel_title']}")
+        print(f"Published at: {video['publish_time']}")
+        print(f"Days since published: {video['days_since_published']}")
+        print(f"Video URL: {video['video_url']}")
+        print(f"Transcript length (words): {video['transcript_length']}")
+        print(f"Description word count: {video['description_word_count']}")
+        print(f"Views: {video['view_count']}")
+        print(f"Likes: {video['like_count']}")
+        print(f"Comments: {video['comment_count']}")
+        print(f"Like to view ratio: {video['like_to_view_ratio']:.2f}")
+        print(f"Transcript: {video['transcript']}")  # نمایش متن زیرنویس در خروجی
+        print('-' * 50)
+else:
+    print("No videos found.")
