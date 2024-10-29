@@ -1,0 +1,124 @@
+from googleapiclient.discovery import build
+import sqlite3
+import matplotlib.pyplot as plt
+from prettytable import PrettyTable
+from googleapiclient.errors import HttpError
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import squarify
+
+class YouTubeDataCollector:
+    def __init__(self, api_key, db_name='youtube_music_videos.db'):
+        # اتصال به سرویس API یوتیوب با استفاده از کلید API
+        self.youtube = build('youtube', 'v3', developerKey=api_key)
+        # ساخت اتصال به پایگاه داده
+        self.conn = sqlite3.connect(db_name)
+        self.cursor = self.conn.cursor()
+        self._create_table()
+
+    def _create_table(self):
+        # حذف جدول قدیمی در صورت وجود و سپس ساخت جدول جدید با ستون‌های مورد نیاز برای ویدیوها
+        self.cursor.execute('''DROP TABLE IF EXISTS videos''')
+        self.cursor.execute('''
+        CREATE TABLE IF NOT EXISTS videos (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            link TEXT,
+            instrument TEXT,
+            channel TEXT,
+            views INTEGER,
+            duration TEXT,
+            published_date TEXT,
+            likes INTEGER,
+            comments INTEGER,
+            description TEXT,
+            tags TEXT,
+            thumbnail_url TEXT,
+            category_id INTEGER,
+            live_broadcast_content TEXT,
+            default_audio_language TEXT,
+            licensed_content BOOLEAN,
+            definition TEXT,
+            caption_status TEXT
+        )
+        ''')
+
+    def get_youtube_videos(self, query, instrument):
+        try:
+            # ایجاد درخواست برای جستجوی ویدیوها بر اساس کوئری داده شده
+            request = self.youtube.search().list(
+                q=query,
+                part='snippet',
+                type='video',
+                maxResults=50
+            )
+            response = request.execute()
+
+            # پردازش ویدیوهای پیدا شده و استخراج اطلاعات هر ویدیو
+            for item in response['items']:
+                title = item['snippet']['title']
+                video_id = item.get('id', {}).get('videoId')
+                channel_title = item['snippet'].get('channelTitle', 'Unknown')
+                link = f"https://www.youtube.com/watch?v={video_id}" if video_id else 'N/A'
+                published_date = item['snippet'].get('publishedAt', 'Unknown')
+                description = item['snippet'].get('description', 'No description available')
+                thumbnail_url = item['snippet'].get('thumbnails', {}).get('default', {}).get('url', 'N/A')
+                live_broadcast_content = item['snippet'].get('liveBroadcastContent', 'none')
+
+                # درخواست برای دریافت اطلاعات بیشتر درباره ویدیو
+                if video_id:
+                    video_request = self.youtube.videos().list(
+                        part='statistics,contentDetails,snippet',
+                        id=video_id
+                    )
+                    video_response = video_request.execute()
+                    video_info = video_response['items'][0] if video_response['items'] else {}
+
+                    views = int(video_info.get('statistics', {}).get('viewCount', 0))
+                    likes = int(video_info.get('statistics', {}).get('likeCount', 0))
+                    comments = int(video_info.get('statistics', {}).get('commentCount', 0))
+                    duration = video_info.get('contentDetails', {}).get('duration', 'N/A')
+                    tags = ', '.join(video_info.get('snippet', {}).get('tags', []))
+                    category_id = int(video_info.get('snippet', {}).get('categoryId', 0))
+                    default_audio_language = video_info.get('snippet', {}).get('defaultAudioLanguage', 'Unknown')
+                    licensed_content = video_info.get('contentDetails', {}).get('licensedContent', False)
+                    definition = video_info.get('contentDetails', {}).get('definition', 'N/A')
+                    caption_status = 'available' if video_info.get('contentDetails', {}).get('caption', 'false') == 'true' else 'not available'
+                else:
+                    # مقداردهی پیش‌فرض برای ویدیوهایی که شناسه معتبر ندارند
+                    views = 0
+                    likes = 0
+                    comments = 0
+                    duration = 'N/A'
+                    tags = 'N/A'
+                    category_id = 0
+                    default_audio_language = 'Unknown'
+                    licensed_content = False
+                    definition = 'N/A'
+                    caption_status = 'not available'
+
+                # ذخیره اطلاعات ویدیو در پایگاه داده
+                self.cursor.execute(
+                    'INSERT INTO videos (title, link, instrument, channel, views, duration, published_date, likes, comments, description, tags, thumbnail_url, category_id, live_broadcast_content, default_audio_language, licensed_content, definition, caption_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
+                    (title, link, instrument, channel_title, views, duration, published_date, likes, comments, description, tags, thumbnail_url, category_id, live_broadcast_content, default_audio_language, licensed_content, definition, caption_status)
+                )
+
+            self.conn.commit()
+
+        except HttpError as e:
+            print(f'An HTTP error {e.resp.status} occurred: {e.content}')
+
+    def close_connection(self):
+        # بستن ارتباط با پایگاه داده
+        self.conn.close()
+
+# استفاده از کلاس برای جمع‌آوری داده‌های یوتیوب
+if __name__ == "__main__":
+    api_key = 'AIzaSyCYPPzvy0QLjjuOq3LYL7iG5lbTbFBs7nU'
+    collector = YouTubeDataCollector(api_key)
+    collector.get_youtube_videos('guitar tutorial', 'Guitar')
+    collector.close_connection()
